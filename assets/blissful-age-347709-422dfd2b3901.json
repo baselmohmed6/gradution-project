@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blissful-age-347709",
+  "private_key_id": "422dfd2b3901bb5b734cd358a30f02ca6fe21e8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCnz/AHeixGfI82\nTcpHpBdP3NP9VWCMvWZNCKjXD2gqegxHhObsImqf83lCBvb/JDJmvBwc/9d7Jbyt\nzckEz4IwRW2RlC0o14OsrxjPeAe790Fnq4o6cWgZNDntGQFpqYhMJ+Hk7GNTB+eQ\nkRUU2bkBCM1mxc4rb+ZGvRgkkV6H9mINn7JIy+tdWtTgoPjj6erYKviHeHe5f7e9\nvpK3+b4vOpFpEEUIuSXCReskn/QSTKTmo+zuse2qjcQisJGbOaNevaSb96G+5CJk\na+Ri3vSnj/jBpFGtDPWLN5eHp6rB90ddBaujq/eng9iLKVE8C4zJTO8Sg/GX69kq\nLPmTu+/TAgMBAAECggEAOCqJrQcAMKtaB5PrwySxxMIlleHwicqOpfPjBvAaLjVh\nTMK3w4sVYunLyQSpwOWtlOMbCb27snUD/KwmvtxxN5TVQmd04fmYEcEdLbt/4zKz\nim5IupzgeacYSDoZVfMvMkYa/lL8P3sizykwBCWHHUiD7wT/p1wxl7WMkhixqhGL\nIHO6FG0HHIA5xtqGxwHNuCA2joPvqrw2rc3ZeMiUnKsbEU+JHOKMux3WxEKVJ2VM\nqYYqmjEuSj8zcwANqKMmz5g7kbpg2agvZ6lBaUBtJmFLYOx9lLx0/KDIrhXk3iT0\n3tvWpEM28rMWEgik+djEHbj+O+WhKASHLx27DQgP2QKBgQDUaG2+7Qy3HNhF+iZe\nZgl/scHfG8IiSdQ/gi84OP1V6lgR0g1y4GT19Z/4AOTWKh5dZXvhMeWjUauyRglk\nqWvkpuxDWQbAuYDlg6bD4oQfsFDOo7bV+2JlUjx8svk0hwNgsGYVM9CT4CMBZgrr\nQoTewMsZHL02woLWDrtFqAn2LQKBgQDKQIYsQ35dxUwEYMwp5Zayb7dGOnGgFjbT\njouRpSMpXD3NcPT/aYO0BbZHVPdVY/HezrMUQ8MfiJZ4NoBB3MBvW/fDb+XL7nE9\n+hON3+fqgy/JAFH8kpAh07owHrP1mAGmLvGF1v5yT13X++CW5KZj0wS2kRfvWEpu\nooYFEiM9/wKBgQCPR6JAGEdrfdml2ofnRY1CxfWxOlhKKOMzs+2GT2sUeW/PFZJc\n22E/SOEPugqjLOYuujZGQhJViNH4/6V2cZKGOtNE2tjjSD7ak2P63uGhPp5Dxcuf\nrGNDVaXXuCLCfBCbOGKkCr+4AImcd+kFqWlXmVVnKyu3tJ3tJyLMaf3OQQKBgQCX\n4lzgYM9FHCU6JHct/3xsA/lehAVQc145AZNOjPUa2mqPHYTfSh3d02xPpT8YoTXC\nXPefAERIKgrVvBgVXfIlrqsh2aZ4v1fLc0G8CangMyRvjg4D3wzeWmI4QNZkWQLk\nCdzW5d2vemq/CChhKNTLomynrc6Lr4I2E1cR98z/gQKBgQDIg3f4nT9q0zv+Deqc\nt2tR5fWFI4X9g4HM5K6QRwYRKKgjFiBZu3ScRnJPd3ZlmLaPOGW0MdHxPcDw1Jwz\nAI37PfItDffITtZmeO1UVOxOpAHcG/HSmwiTzJ0iIGeo0s/RIDA8cpcuqvEAOH2L\nXzYdar352hTPWH2Nz4ZRUfrePg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "transcript@blissful-age-347709.iam.gserviceaccount.com",
+  "client_id": "107317774879612151545",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/transcript%40blissful-age-347709.iam.gserviceaccount.com"
+}
